@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\UnitTestProject\\UnitTestProject.csproj": {}
+    "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\UnitTestProject\\UnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj": {
+    "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj",
+        "projectUniqueName": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj",
         "projectName": "todo",
-        "projectPath": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj",
+        "projectPath": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj",
         "packagesPath": "C:\\Users\\AL1005745\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\obj\\",
+        "outputPath": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL1005745\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\UnitTestProject\\UnitTestProject.csproj": {
+    "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\UnitTestProject\\UnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\UnitTestProject\\UnitTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\UnitTestProject\\UnitTestProject.csproj",
         "projectName": "UnitTestProject",
-        "projectPath": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\UnitTestProject\\UnitTestProject.csproj",
+        "projectPath": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\UnitTestProject\\UnitTestProject.csproj",
         "packagesPath": "C:\\Users\\AL1005745\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\UnitTestProject\\obj\\",
+        "outputPath": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\UnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL1005745\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj": {
-                "projectPath": "C:\\Users\\AL1005745\\source\\repos\\SolutionPoc\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj"
+              "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj": {
+                "projectPath": "C:\\Users\\AL1005745\\Source\\Repos\\na312046\\dotnetcore-withunittest\\cosmos-dotnet-core-todo-app-master\\src\\todo.csproj"
               }
             }
           }
